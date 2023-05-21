@@ -11,7 +11,6 @@ public interface Endpoints {
 	public static final String DELETEADDRESS="https://omrbranch.com/api/deleteAddress";
 	public static final String SEARCHPRODUCT="https://omrbranch.com/api/searchProduct";
 	public static final String GETUSERADDRESS="https://omrbranch.com/api/getUserAddress";
-	public static final String CHANGEPROFILEPIC="https://omrbranch.com/api/changeProfilePic";
 	
 	
 }
